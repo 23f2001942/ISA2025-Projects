@@ -38,7 +38,39 @@ pip install numpy pandas matplotlib scipy astropy
 
 ---
 
-## Sampling Variations
+## 📊 Sample Visualizations
+
+- 📈 Redshift histograms and velocity dispersion plots for galaxy clusters.
+- 🌌 Hubble diagram and residuals for supernova-based cosmology fits.
+- 📋 Tables showing how H₀ and universe age vary with Ωₘ.
+
+---
+
+## 🧾 Certification
+
+This work was conducted under the guidance of Mr. Sahil Sakkarwal, India Space Academy, and officially certified as part of the ISA 2025 Summer School on Astronomy and Astrophysics.
+
+--- 
+
+## 👤 Author
+
+- Shamanthak Reddy Mallu
+- BITS Pilani Hyderabad Campus
+- ISA Admission Number : 554265
+
+---
+
+## 🙌 Acknowledgments
+
+- 🛰️ India Space Academy (ISA) for organizing the Summer School and providing datasets
+- 🔭 Sloan Digital Sky Survey (SDSS) for galaxy data
+- 🌠 Pantheon+SH0ES Collaboration for supernovae data and cosmology resources
+
+---
+
+## 📄 License
+
+This repository is intended for academic and educational use. Contact the author for reuse, collaboration, or citations.
 
 
 
