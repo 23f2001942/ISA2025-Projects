@@ -66,11 +66,6 @@ This work was conducted under the guidance of Mr. Sahil Sakkarwal, India Space A
 - 🔭 Sloan Digital Sky Survey (SDSS) for galaxy data
 - 🌠 Pantheon+SH0ES Collaboration for supernovae data and cosmology resources
 
----
-
-## 📄 License
-
-This repository is intended for academic and educational use. Contact the author for reuse, collaboration, or citations.
 
 
 
