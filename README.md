@@ -48,7 +48,7 @@ pip install numpy pandas matplotlib scipy astropy
 
 ## 🧾 Certification
 
-This work was conducted under the guidance of Mr. Sahil Sakkarwal, India Space Academy, and officially certified as part of the ISA 2025 Summer School on Astronomy and Astrophysics.
+This work was conducted under the guidance of India Space Academy, and officially certified as part of the ISA 2025 Summer School on Astronomy and Astrophysics.
 
 --- 
 
