@@ -1,4 +1,4 @@
-# 🌌 Cosmic Parameters Insights — ISA 2025 Astrophysics Projects
+# ISA 2025 Astrophysics Projects
 
 This repository contains Python notebooks, datasets, and final reports for two astrophysics research projects completed as part of the **India Space Academy (ISA) 2025 Summer School**. These projects explore the dynamical mass of galaxy clusters and the estimation of cosmological parameters using real observational data from SDSS and Pantheon+SH0ES datasets.
 
